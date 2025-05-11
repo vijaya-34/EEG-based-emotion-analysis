@@ -1,0 +1,1 @@
+This script is used to perform a comprehensive signal processing and transformation pipeline that can load data, extract frequency domain features (PSD, DE), time-frequency domain feature (Wavelet Entropy) and time domain feature (Shannon Entropy) and plot the trends of extracted features across frequency bands for emotional conditions.
